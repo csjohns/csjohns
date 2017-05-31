@@ -1,0 +1,61 @@
+<!--This site template was created by Katherine Banks (kbanks@uw.edu) for use by UW POL S graduate students. -->
+
+body {
+background-color: #666666;;
+font-family: verdana,arial,helvetica,sans serif;
+font-size: 12px;
+}
+
+#container { 
+padding: 5px 5px 5px 5px; 
+}
+
+#header { 
+font-weight: bold;
+font-size: 14pt;
+}
+
+#menu {
+font-weight: bold;
+color: #867893
+text-decoration: none;
+}
+
+td {color:black;
+font-family: verdana,arial,helvetica,sans serif;
+font-size: 12px;
+}
+
+h2 {
+font-weight: bold;
+font-size: 14pt;
+line-height: 16px;
+color: black;
+}
+
+h3 {
+font-weight: bold;
+font-size: 12px;
+}
+
+a img {
+	border: none;
+}
+
+a:link { 
+color: #3A265B;
+font-weight: bold;
+text-decoration: underline;
+}
+		
+a:hover, a:active { 
+color: #3A265B;
+font-weight: bold;
+text-decoration: underline; 
+}
+
+a:visited { 
+color: #3A265B;
+font-weight: bold;
+text-decoration: underline; 
+}
